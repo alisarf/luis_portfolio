@@ -50,8 +50,10 @@ Powerpoint and Video Page:
 - Build on reading other published code
  
 ### Continued development
- 
-In the future, I would like to revamp this website starting with the design being built out in a design software. Knowing what I know now about consistency with design, I would go back and make sure to utilize the same values for properties such as margin, padding and font-families. This would allow the flow from top to the bottom of the page to feel less chaotic.
+
+First off, I would have liked to place all the pages deviating from index.html into a page folder but it slipped my mind when I was developing. I didn't feel like it would make that great of a difference. When I go back to add content or create a new iteration, I plan on reorganizing them into folders and correcting the relative paths.
+
+In the future, I would like to revamp this website starting with the design being built out in a design software. Knowing what I know now about consistency with design, I would go back and make sure to utilize the same values for properties such as margin, padding and font-families. This would allow the flow from top to bottom of the page feel less chaotic.
  
 ## Author
  
