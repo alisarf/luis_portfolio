@@ -20,8 +20,8 @@ live: https://luisportfolio.web.app/
  
 ### The challenge
  
-A couple minor challenges. One was the time constraint as it needed to be completed and sent back within two days. Additionally, there were frequent changes with what was needed for this portfolio, such as adding videos, integrating powerpoint slides and expanding the overall portfolio. This required more time for development than what was initially expected. These specific pages were sent directly to the inquiring manager as they contained private information. They are not listed within this repo/live, nor is the content that they contained, however, you can view a screenshot of it below.
-I do not take credit for the image slideshow UI. Because of the time crunch, I referenced w3schools.com's slideshow and manipulated the code to fit our needs and save an hour or two. Although I do feel confident in building something of similar functionality if given the time to do so.
+- A couple minor challenges. One was the time constraint as it needed to be completed and sent back within two days. Additionally, there were frequent changes with what was needed for this portfolio, such as adding videos, integrating powerpoint slides and expanding the overall portfolio. This required more time for development than what was initially expected. These specific pages were sent directly to the hiring manager as they contained private information. They are not listed within this repo/live, nor is the content that they contained, however, you can view a screenshot of it below.
+- I do not take credit for the image slideshow UI. Because of the time crunch, I referenced w3schools.com's slideshow and manipulated the code to fit our needs and save an hour or two. Although I do feel confident in building something of similar functionality if given the time to do so.
  
 ### Screenshot
  
@@ -51,9 +51,9 @@ Powerpoint and Video Page:
  
 ### Continued development
 
-First off, I would have liked to place all the pages deviating from index.html into a page folder but it slipped my mind when I was developing. I didn't feel like it would make that great of a difference. When I go back to add content or create a new iteration, I plan on reorganizing them into folders and correcting the relative paths.
+- First off, I would have liked to place all the pages deviating from index.html into a page folder but it slipped my mind when I was developing. I didn't feel like it would make that great of a difference. When I go back to add content or create a new iteration, I plan on reorganizing them into folders and correcting the relative paths.
 
-In the future, I would like to revamp this website starting with the design being built out in a design software. Knowing what I know now about consistency with design, I would go back and make sure to utilize the same values for properties such as margin, padding and font-families. This would allow the flow from top to bottom of the page feel less chaotic.
+- In the future, I would like to revamp this website starting with the design being built out in a design software. Knowing what I know now about consistency with design, I would go back and make sure to utilize the same values for properties such as margin, padding and font-families. This would allow the flow from top to bottom of the page feel less chaotic.
  
 ## Author
  
